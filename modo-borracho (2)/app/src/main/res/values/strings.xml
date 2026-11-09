@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modo borracho</string>
+    <string name="service_description">Mira el nombre del chat abierto en las apps de mensajes que hayas elegido y, solo si está en tu lista de bloqueados y el modo borracho está activo, te saca del chat o cambia lo que escribes por un aviso. No guarda lo que escribes ni envía nada a Internet.</string>
+    <string name="blocked_toast">🍺🚫 Ese chat está bloqueado. Mañana me lo agradeces.</string>
+
+    <!-- El aviso que se envía en lugar del mensaje. Es siempre el mismo. -->
+    <string name="fixed_message">Esta persona esta en modo borracho no puede enviar ningun mensaje!!!</string>
+    <string name="swap_toast">🍺 Modo borracho: aquí solo puedes enviar el aviso</string>
+    <string name="cooldown_toast">🍺 Modo borracho: ya se le avisó, ahora no se puede escribir</string>
+</resources>
